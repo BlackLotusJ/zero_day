@@ -4,10 +4,10 @@
 
 At the end of the project yous hould be able to explain to anyone, without the help of Google:
 
-*What is a virtual Machine
+* What is a virtual Machine
 
-*What is Vagrant 
+* What is Vagrant 
 
-*Who wrote Vagrant 
+* Who wrote Vagrant 
 
-*What is Ubuntu
+* What is Ubuntu
